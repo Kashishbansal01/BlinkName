@@ -35,39 +35,39 @@ void loop() {
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dash for alphabet K
   delay(3000);                       // wait for 3 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(500);                       // wait for 0.5 second
+  delay(1000);                       // wait for 0.5 second
 
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet K
   delay(500);                       // wait for 0.5 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(500);                       // wait for 0.5 second
+  delay(1500);                       // wait for 0.5 second
 
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dash for alphabet K
   delay(3000);                       // wait for 3 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(1500);                       // wait for 1.5 second
+  delay(1000);                       // wait for 1.5 second
 
 // for "A" :-
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet A
   delay(500);                       // wait for 0.5 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(500);                       // wait for 0.5 second
+  delay(1500);                       // wait for 0.5 second
 
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dash for alphabet A
   delay(3000);                       // wait for 3 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(1500);                       // wait for 1.5 second
+  delay(1000);                       // wait for 1.5 second
 
 // for "S" :- 
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet S
   delay(500);                       // wait for 0.5 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(500);                       // wait for 0.5 second
+  delay(1500);                       // wait for 0.5 second
 
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet S
   delay(500);                       // wait for 0.5 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(500);                       // wait for 0.5 second
+  delay(1500);                       // wait for 0.5 second
 
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet S
   delay(500);                       // wait for 0.5 second
@@ -78,17 +78,17 @@ void loop() {
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,,to blink dot for alphabet H
   delay(500);                       // wait for 0.5 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(500);                       // wait for 0.5 second
+  delay(1500);                       // wait for 0.5 second
 
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet H
   delay(500);                       // wait for 0.5 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(500);                       // wait for 0.5 second
+  delay(1500);                       // wait for 0.5 second
 
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet H
   delay(500);                       // wait for 0.5 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(500);                       // wait for 0.5 second
+  delay(1500);                       // wait for 0.5 second
 
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet H
   delay(500);                       // wait for 0.5 second
@@ -100,7 +100,7 @@ void loop() {
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet I
   delay(500);                       // wait for 0.5 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(500);                       // wait for 0.5 second
+  delay(1500);                       // wait for 0.5 second
 
 
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet I
@@ -113,13 +113,13 @@ void loop() {
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet S
   delay(500);                       // wait for 0.5 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(500);                       // wait for 0.5 second
+  delay(1500);                       // wait for 0.5 second
 
 
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet S
   delay(500);                       // wait for 0.5 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(500);                       // wait for 0.5 second
+  delay(1500);                       // wait for 0.5 second
 
 
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet S
@@ -132,19 +132,19 @@ void loop() {
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet H
   delay(500);                       // wait for 0.5 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(500);                       // wait for 0.5 second
+  delay(1500);                       // wait for 0.5 second
 
 
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet H
   delay(500);                       // wait for 0.5 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(500);                       // wait for 0.5 second
+  delay(1500);                       // wait for 0.5 second
 
 
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet H
   delay(500);                       // wait for 0.5 second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(500);                       // wait for 0.5 second
+  delay(1500);                       // wait for 0.5 second
 
 
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level) ,to blink dot for alphabet H
