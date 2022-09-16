@@ -14,9 +14,9 @@ void loop() {
   delay(1000);                       
 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet K
-  delay(500);                       
+  delay(1500);                       
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1500);                      
+  delay(500);                      
 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dash for alphabet K
   delay(3000);                      
@@ -25,9 +25,9 @@ void loop() {
 
 // for "A" :-
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet A
-  delay(500);                       
-  digitalWrite(LED_BUILTIN, LOW);    
   delay(1500);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);                       
 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dash for alphabet A
   delay(3000);                      
@@ -36,85 +36,85 @@ void loop() {
 
 // for "S" :- 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet S
-  delay(500);                       
-  digitalWrite(LED_BUILTIN, LOW);    
   delay(1500);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);                       
 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet S
-  delay(500);                      
+  delay(1500);                      
   digitalWrite(LED_BUILTIN, LOW);   
-  delay(1500);                       
+  delay(500);                       
 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet S
-  delay(500);                       
-  digitalWrite(LED_BUILTIN, LOW);    
   delay(1500);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);                       
 
 // for "H" :- 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet H
-  delay(500);                      
+  delay(1500);                      
   digitalWrite(LED_BUILTIN, LOW);   
-  delay(1500);                       
-
-  digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet H
-  delay(500);                      
-  digitalWrite(LED_BUILTIN, LOW);    
-  delay(1500);                       
-
-  digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet H
   delay(500);                       
-  digitalWrite(LED_BUILTIN, LOW);    
-  delay(1500);                       
 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet H
-  delay(500);                       
+  delay(1500);                      
   digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);                       
+
+  digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet H
   delay(1500);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);                       
+
+  digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet H
+  delay(1500);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);                       
 
 // for "I" :- 
 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet I
-  delay(500);                       
-  digitalWrite(LED_BUILTIN, LOW);    
   delay(1500);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);                       
 
 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet I
-  delay(500);                       
-  digitalWrite(LED_BUILTIN, LOW);    
   delay(1500);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);                       
 
 
 // for "S" :- 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet S
+  delay(1500);                       
+  digitalWrite(LED_BUILTIN, LOW);    
   delay(500);                       
-  digitalWrite(LED_BUILTIN, LOW);    
-  delay(1500);                       
 
 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet S
-  delay(500);                      
+  delay(1500);                      
   digitalWrite(LED_BUILTIN, LOW);   
-  delay(1500);                       
+  delay(500);                       
 
 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet S
-  delay(500);                      
+  delay(1500);                      
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(1500);                       
+  delay(500);                       
 
 // for "H" :- 
 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet H
-  delay(500);                       
-  digitalWrite(LED_BUILTIN, LOW);    
   delay(1500);                       
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(500);                       
 
 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet H
-  delay(500);                     
+  delay(1500);                     
   digitalWrite(LED_BUILTIN, LOW);   
-  delay(1500);                      
+  delay(500);                      
 
 
   digitalWrite(LED_BUILTIN, HIGH);   // to blink dot for alphabet H
